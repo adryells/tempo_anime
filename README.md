@@ -1,5 +1,4 @@
 # tempo_anime
-calcule o tempo necessário para terminar um anime
+calcule o tempo necessário em minutos para terminar um anime!.
 
-
-execute aux_anime.py
+1 - Execute aux_anime.py
